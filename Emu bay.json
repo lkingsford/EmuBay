@@ -34,6 +34,7 @@
       "abbrev": "EBR",
       "color": "blue",
       "shareType": "default",
+      "trains": 4,
       "shares": [
         {
           "quantity": 2,
@@ -51,6 +52,7 @@
       "abbrev": "L&W",
       "color": "green",
       "shareType": "default",
+      "trains": 7,
       "shares": [
         {
           "quantity": 3,
@@ -61,6 +63,7 @@
     {
       "name": "Tasmanian Main Line Company",
       "abbrev": "L&W",
+      "trains": 8,
       "color": "yellow",
       "shareType": "default",
       "shares": [
@@ -78,6 +81,7 @@
       "shares": [
         {
             "name": "Grubb's Tramway",
+            "subtext": "1 free track",
             "quantity": 1,
             "label": "1",
             "cost": 5
@@ -98,7 +102,7 @@
             "name": "North Mount Farrell Tramway",
             "quantity": 1,
             "label": "4",
-            "cost": 5
+            "cost": 10
         }
       ]
     }
@@ -107,35 +111,35 @@
     {
       "id": "₤",
       "name": "₤10 Bond",
-      "price": "₤2/div ₤12 buyback"
+      "price": "₤2/div"
     },
     {
       "name": "₤10 Bond",
-      "price": "₤3/div ₤13 buyback"
+      "price": "₤3/div"
     },
     {
       "name": "₤10 Bond",
-      "price": "₤4/div ₤14 buyback"
+      "price": "₤4/div"
     },
     {
       "name": "₤20 Bond",
-      "price": "₤4/div ₤24 buyback"
+      "price": "₤4/div"
     },
     {
       "name": "₤20 Bond",
-      "price": "₤5/div ₤25 buyback"
+      "price": "₤5/div"
     },
     {
       "name": "₤30 Bond",
-      "price": "₤6/div ₤36 buyback"
+      "price": "₤6/div"
     },
     {
       "name": "₤30 Bond",
-      "price": "₤7/div ₤37 buyback"
+      "price": "₤7/div"
     },
     {
       "name": "₤50 Bond",
-      "price": "₤15/div ₤65 buyback"
+      "price": "₤15/div"
     }
   ]
 }
