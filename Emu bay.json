@@ -102,5 +102,40 @@
         }
       ]
     }
+  ],
+  "privates": [
+    {
+      "id": "₤",
+      "name": "₤10 Bond",
+      "price": "₤2/div ₤12 buyback"
+    },
+    {
+      "name": "₤10 Bond",
+      "price": "₤3/div ₤13 buyback"
+    },
+    {
+      "name": "₤10 Bond",
+      "price": "₤4/div ₤14 buyback"
+    },
+    {
+      "name": "₤20 Bond",
+      "price": "₤4/div ₤24 buyback"
+    },
+    {
+      "name": "₤20 Bond",
+      "price": "₤5/div ₤25 buyback"
+    },
+    {
+      "name": "₤30 Bond",
+      "price": "₤6/div ₤36 buyback"
+    },
+    {
+      "name": "₤30 Bond",
+      "price": "₤7/div ₤37 buyback"
+    },
+    {
+      "name": "₤50 Bond",
+      "price": "₤15/div ₤65 buyback"
+    }
   ]
 }
