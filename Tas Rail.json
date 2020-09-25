@@ -1,0 +1,106 @@
+{
+  "info": {
+    "title": "Emu Bay Railway Company",
+    "subtitle": "Bankruptcy in Tasmania",
+    "designer": "Lachlan Kingsford",
+    "publisher": "",
+    "background": "water",
+    "orientation": "horizontal",
+    "titleX": 280,
+    "titleY": 860,
+    "mustSellInBlocks": true,
+    "currency": "₤#"
+  },
+  "links": {
+  },
+  "shareTypes": {
+    "default": [
+      {
+        "quantity": 1,
+        "label": "President's Certificate",
+        "percent": 20,
+        "shares": 2
+      },
+      {
+        "quantity": 8,
+        "percent": 10,
+        "shares": 1
+      }
+    ]
+  },
+  "companies": [
+    {
+      "name": "Emu Bay Railway Company",
+      "abbrev": "EBR",
+      "color": "blue",
+      "shareType": "default",
+      "shares": [
+        {
+          "quantity": 2,
+          "shares": 1
+        },
+        {
+          "quantity": 4,
+          "label": "Reserved",
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "name": "Launceston and Western Railway",
+      "abbrev": "L&W",
+      "color": "green",
+      "shareType": "default",
+      "shares": [
+        {
+          "quantity": 3,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "name": "Tasmanian Main Line Company",
+      "abbrev": "L&W",
+      "color": "yellow",
+      "shareType": "default",
+      "shares": [
+        {
+          "quantity": 4,
+          "shares": 1
+        }
+      ]
+    },
+    {
+      "name": "Independents",
+      "color": "red",
+      "abbrev": "I",
+      "shareType": "default",
+      "shares": [
+        {
+            "name": "Grubb's Tramway",
+            "quantity": 1,
+            "label": "1",
+            "cost": 5
+        },
+        {
+            "name": "Mount Lyell Mining and Railway Company",
+            "quantity": 1,
+            "label": "2",
+            "cost": 10
+        },
+        {
+            "name": "North East Dundas Tramway",
+            "quantity": 1,
+            "label": "3",
+            "cost": 10
+        },
+        {
+            "name": "North Mount Farrell Tramway",
+            "quantity": 1,
+            "label": "4",
+            "cost": 5
+        }
+      ]
+    }
+  ]
+}
