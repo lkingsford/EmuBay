@@ -72,6 +72,8 @@ The winner of the auction pays the amount that they bid from their personal cash
 
 Minimum bid for EBR, L&W or TMLC is its current revenue, minus its per dividend debt obligations, divided by the amount of shares owned by players including the one being sold, which is always rounded up to the next ₤. Minimum bid for the independents is the station price, shown on the card.
 
+The minimum bid must always be at least ₤1.
+
 Only the independent on top of the stack of independents is available. If an independent is auctioned, the station price is payed by the independent immediately after the auction.
 
 ### Take Resources
@@ -84,7 +86,7 @@ You pick the resource cube up, and place it on your companies charter. If you ar
 
 You can issue a bond if you have at least one share in a company you want to issue a bond for, and there is at least one bond available.
 
-Pick up a bond, and place it on your company's charter. Add the amount of money shown on the bond from the bank to the company's charter.
+Pick up a bond, and place it on your company's charter. Add the amount of money shown on the bond from the bank to the company's charter. Move your company's revenue down as manyt 
 
 The independent companies can not issue bonds.
 
@@ -102,16 +104,23 @@ You can pay dividends whenever the action is available.
 
 Each player gets, for each share held, its current revenue, minus its per dividend debt obligations, divided by the amount of shares owned by players rounded up, for each individual share.
 
+Following the dividend round, check whether any of the end-game conditions apply. If they do, place a cube on the relevant space on the board.
+
 If the dividend debt obligations exceed revenue, the company's treasury makes up the shortfall. If there is insufficient cash, then the amount left owing is divided by the amount of shares in that company, rounded up. Each player must pay the bank that amount for each of their shares held. If any player has insufficient cash, then they are bankrupted. Pay all their money to the bank, reduce the debt by the amount of money that they had, regard their shares as no longer held, and repeat this procedure if there are remaining shareholders.
 
 ## Ending the game
 
 The game ends in one of 3 ways:
 
-1. A player goes bankrupt during a Pay Dividends action due to not being able to pay their companies debt obligations. End the game immediately once all dividend payouts are exhausted.
+1. If two of the following conditions are true following a Pay Dividends action, the game ends immediately:
 
-2. One of the companies (including an independent) reaches revenue (ignoring debt) of ₤18. Finish the game following two more dividend rounds.
+ - All company shares (excluding any remaining 'reserved' shares) have been sold to players
+ - There are no remaining resource cubes on the board
+ - 3 of the 4 charters (including the Independents charter) have no remaining trains
+ - There are no remaining bond cards
 
-3. There is a stalemate due to a player being unable to perform any actions.
+2. A player goes bankrupt during a Pay Dividends action due to not being able to pay their companies debt obligations. End the game immediately once all dividend payouts are exhausted.
+
+3. There is a stalemate due to a player being unable to perform any actions. Pay dividends, and end the game.
 
 In all cases, the winner is the player with the most money. Ties are possible.
