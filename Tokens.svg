@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="264.11083"
-     inkscape:cy="864.9559"
+     inkscape:zoom="1.4"
+     inkscape:cx="266.53043"
+     inkscape:cy="857.84397"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1181"
      inkscape:window-height="980"
-     inkscape:window-x="258"
-     inkscape:window-y="91"
+     inkscape:window-x="1776"
+     inkscape:window-y="241"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata8255">
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,29 +53,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g12294"
-       transform="translate(0.21269824)">
-      <rect
-         y="41.463455"
-         x="69.492996"
-         height="10"
-         width="10"
-         id="rect12277"
-         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566421"
-         x="74.474327"
-         y="48.852821"
-         id="text12249"><tspan
-           sodipodi:role="line"
-           id="tspan12247"
-           x="74.474327"
-           y="48.852821"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566421">NED</tspan></text>
-    </g>
-    <g
-       id="g12212">
+       id="g12212"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
       <circle
          r="6.7753863"
          cy="27.760406"
@@ -96,7 +77,10 @@
     </g>
     <g
        id="g12217"
-       transform="translate(0.94635293)">
+       transform="translate(0.94635293)"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
       <circle
          style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle12149"
@@ -117,7 +101,10 @@
     </g>
     <g
        id="g12222"
-       transform="translate(-0.41404126)">
+       transform="translate(-0.41404126)"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
       <circle
          r="6.7753863"
          cy="27.760406"
@@ -137,7 +124,10 @@
            sodipodi:role="line">NED</tspan></text>
     </g>
     <g
-       id="g12227">
+       id="g12227"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602">
       <circle
          style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle12161"
@@ -149,7 +139,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566421"
          x="92.180367"
          y="30.143955"
-         id="text12165"><tspan
+         id="text12165"
+         inkscape:export-xdpi="89.988602"
+         inkscape:export-ydpi="89.988602"><tspan
            sodipodi:role="line"
            id="tspan12163"
            x="92.180367"
@@ -157,73 +149,111 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566421">NMF</tspan></text>
     </g>
     <g
-       id="g12305"
-       transform="translate(-0.8018074)">
-      <g
-         id="g12284">
-        <rect
-           style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect12273"
-           width="10"
-           height="10"
-           x="35.255791"
-           y="42.003811" />
-        <text
-           id="text12233"
-           y="49.389359"
-           x="40.097569"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566433"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566433"
-             y="49.389359"
-             x="40.097569"
-             id="tspan12231"
-             sodipodi:role="line">GT</tspan></text>
-      </g>
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-xdpi="89.988602"
+       id="g28319"
+       transform="translate(0,14.552083)"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
+      <circle
+         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle28313"
+         cx="39.453983"
+         cy="27.760406"
+         r="6.7753863" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566433"
+         x="39.295761"
+         y="30.145954"
+         id="text28317"><tspan
+           sodipodi:role="line"
+           id="tspan28315"
+           x="39.295761"
+           y="30.145954"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566433">GT</tspan></text>
     </g>
     <g
-       id="g12299"
-       transform="translate(-0.30498984)">
-      <rect
-         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12275"
-         width="10"
-         height="10"
-         x="52.38483"
-         y="41.757599" />
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-xdpi="89.988602"
+       transform="translate(0.94635293,14.552083)"
+       id="g28327"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
+      <circle
+         r="6.7753863"
+         cy="27.760406"
+         cx="56.133488"
+         id="circle28321"
+         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         id="text12241"
-         y="49.146965"
-         x="57.3834"
+         id="text28325"
+         y="30.143955"
+         x="55.893085"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566421"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566421"
-           y="49.146965"
-           x="57.3834"
-           id="tspan12239"
+           y="30.143955"
+           x="55.893085"
+           id="tspan28323"
            sodipodi:role="line">MLM</tspan></text>
     </g>
     <g
-       id="g12289"
-       transform="translate(-0.02044678)">
-      <rect
-         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12279"
-         width="10"
-         height="10"
-         x="87.352005"
-         y="41.463455" />
+       inkscape:export-ydpi="89.988602"
+       inkscape:export-xdpi="89.988602"
+       transform="translate(-0.41404126,14.552083)"
+       id="g28335"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png">
+      <circle
+         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle28329"
+         cx="75.119736"
+         cy="27.760406"
+         r="6.7753863" />
       <text
-         id="text12257"
-         y="48.852821"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566421"
+         x="74.888367"
+         y="30.143955"
+         id="text28333"><tspan
+           sodipodi:role="line"
+           id="tspan28331"
+           x="74.888367"
+           y="30.143955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566421">NED</tspan></text>
+    </g>
+    <g
+       id="g28343"
+       transform="translate(0,14.552083)"
+       inkscape:export-filename="E:\Dropbox\tasrender\tokens.png"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602">
+      <circle
+         r="6.7753863"
+         cy="27.760406"
+         cx="92.331558"
+         id="circle28337"
+         style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="89.988602"
+         inkscape:export-xdpi="89.988602"
+         id="text28341"
+         y="30.143955"
          x="92.180367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63375378px;line-height:1.25;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.71566421"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Teko;-inkscape-font-specification:Teko;text-align:center;text-anchor:middle;stroke-width:0.71566421"
-           y="48.852821"
+           y="30.143955"
            x="92.180367"
-           id="tspan12255"
+           id="tspan28339"
            sodipodi:role="line">NMF</tspan></text>
     </g>
+    <circle
+       style="fill:#d35f5f;fill-opacity:1;stroke:#000000;stroke-width:0.17593478;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle28345"
+       cx="39.453983"
+       cy="72.928558"
+       r="6.7753863"
+       inkscape:export-filename="E:\Dropbox\tasrender\backtoken.png"
+       inkscape:export-xdpi="89.988602"
+       inkscape:export-ydpi="89.988602" />
   </g>
 </svg>
