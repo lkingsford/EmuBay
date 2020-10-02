@@ -84,14 +84,14 @@
             "subtext": "₤15, 3 Tracks",
             "quantity": 1,
             "label": "3",
-            "cost": "₤5+1/div"
+            "cost": "₤6+1/div"
         },
         {
             "name": "North Mount Farrell Tramway",
             "subtext": "₤15, 4 Tracks",
             "quantity": 1,
             "label": "4",
-            "cost": "₤6+1/div"
+            "cost": "₤7+1/div"
         }
       ]
     }
@@ -99,35 +99,27 @@
   "privates": [
     {
       "name": "₤10 Bond",
-      "price": "₤3+1/div"
-    },
-    {
-      "name": "₤10 Bond",
-      "price": "₤4+1/div"
-    },
-    {
-      "name": "₤10 Bond",
       "price": "₤5+1/div"
     },
     {
-      "name": "₤20 Bond",
-      "price": "₤6+1/div"
+      "name": "₤15 Bond",
+      "price": "₤5+2/div"
     },
     {
       "name": "₤20 Bond",
-      "price": "₤7+1/div"
+      "price": "₤7+2/div"
     },
     {
       "name": "₤30 Bond",
       "price": "₤9+2/div"
     },
     {
-      "name": "₤30 Bond",
-      "price": "₤11+2/div"
+      "name": "₤40 Bond",
+      "price": "₤14+2/div"
     },
     {
       "name": "₤50 Bond",
-      "price": "₤15+2/div"
+      "price": "₤16+3/div"
     }
   ]
 }
