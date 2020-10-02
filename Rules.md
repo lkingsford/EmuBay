@@ -58,7 +58,7 @@ To place a track, you place one of the cubes (track) from the company's charter 
 
 The cost of placing a track on each type of hex is shown in the cost table on the board, firstly unoccupied, and then occupied by another companies track or station.
 
-Forested (green) and mountainous (green with a triangle) hexes can only be occupied by one company. A company can not have more than one track in the same hex. All stations occupy their respective spaces from the start of the game.
+Forested (green) and mountainous (green with a triangle) hexes can only be occupied by one company. A company can not have more than one track in the same hex. All stations count as occupying their respective spaces from the start of the game.
 
 #### Revenue
 
@@ -150,5 +150,3 @@ The game ends in one of 3 ways:
 3. There is a stalemate due to a player being unable to perform any actions. Pay dividends, and end the game.
 
 In all cases, the winner is the player with the most money. Ties are possible.
-
-## Clarifications
