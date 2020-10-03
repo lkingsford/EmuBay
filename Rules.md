@@ -16,7 +16,7 @@ Lachlan Kingsford
 
 4. Place the bonds next to the board.
 
-5. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol, draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens.
+5. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol, draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
 
 6. Place the number of matching colored cubes indicated on each charter on that charter.
 
