@@ -4,27 +4,25 @@ Emu Bay Railway Company - Rules
 Lachlan Kingsford
 -----------------
 
-2020-10-03.1
+2020-10-03.2
 
 # Set up
 
 1. Separate the bonds, and each group of share certificates. Separate the 'Reserved' EBR certificates from the other EBR certificates.
 
-2. Place the EBR, L&W and TMLC certificate on their respective charters.
+2. Place the EBR, L&W and TMLC certificate on their respective charters. Place the independent certificates in their respective locations.
 
-3. Place the red 'Independent" certificates in order with the numbers on the card, with '1' ('Grubb's Tramway') on top. 
+3. Place the bonds next to the board.
 
-4. Place the bonds next to the board.
+4. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol, draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
 
-5. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol, draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
+5. Place the number of matching colored cubes indicated on each charter on that charter.
 
-6. Place the number of matching colored cubes indicated on each charter on that charter.
+6. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Its starting position will be the revenue for the tile its station is on.
 
-8. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Its starting position will be the revenue for the tile its station is on.
+7. Place additional cubes in the spaces marked on the action table.
 
-8. Place additional cubes in the spaces marked on the action table.
-
-9. Split ₤20 (or ₤18 for 3 players) evenly between the players.
+8. Split ₤20 (or ₤18 for 3 players) evenly between the players.
 
 # Game play
 
