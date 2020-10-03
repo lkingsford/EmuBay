@@ -4,7 +4,7 @@ Emu Bay Railway Company - Rules
 Lachlan Kingsford
 -----------------
 
-2020-09-30.1
+2020-10-03.1
 
 # Set up
 
