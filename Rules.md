@@ -96,7 +96,9 @@ The company can pick up any number of resource cubes on a single hex, paying ₤
 
 ### Issue Bond
 
-You can issue a bond if you have at least one share in a company you want to issue a bond for, it has issued less bonds then it has stock certificates held by players, and there is at least one bond available.
+You can issue a bond if you have at least one share in a company you want to issue a bond for, it can issue a bond, and there is at least one bond available.
+
+A company can issue a bond if it has issued less bonds than it has sold shares. A company can not issue a bond if it both has no tracks remaining, and no resource cubes on its accessible tracks.
 
 Pick up a bond, and place it on your company's charter. Add the amount of money shown on the bond from the bank to the company's charter. Flip the bond to the 'deferred' side.
 
