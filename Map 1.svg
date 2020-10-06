@@ -124,15 +124,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="920.36319"
-     inkscape:cy="867.14661"
+     inkscape:zoom="1"
+     inkscape:cx="500.57815"
+     inkscape:cy="605.03345"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g29886"
      showgrid="false"
-     inkscape:window-width="1621"
+     inkscape:window-width="2033"
      inkscape:window-height="1408"
-     inkscape:window-x="1742"
+     inkscape:window-x="1330"
      inkscape:window-y="6"
      inkscape:window-maximized="0"
      inkscape:snap-nodes="false"
@@ -214,7 +214,7 @@
          x="12.678253"
          y="413.09482"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.26458332"
-         id="tspan11076">Emu Bay Railway Company - Board - 2020-10-03.1</tspan></text>
+         id="tspan11076">Emu Bay Railway Company - Board - 2020-10-06.1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,7 +223,7 @@
      style="display:inline">
     <g
        id="g29908"
-       transform="translate(-63.5)">
+       transform="translate(-45.554648)">
       <rect
          style="display:inline;fill:#e8f6df;fill-opacity:1;stroke:none;stroke-width:0.22424556;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
          id="rect19709"
@@ -262,7 +262,7 @@
     </g>
     <g
        id="g29917"
-       transform="translate(-78.316667)">
+       transform="translate(-57.414584)">
       <rect
          ry="4.4387341"
          rx="4.4387341"
@@ -305,15 +305,15 @@
            sodipodi:role="line">payment.</tspan></text>
     </g>
     <rect
-       style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.26416123;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffccaa;fill-opacity:1;stroke:none;stroke-width:0.27952567;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect19681"
-       width="126.59172"
+       width="141.7459"
        height="30.030209"
        x="13.229166"
        y="375.54999" />
     <g
        id="g29900"
-       transform="translate(-49.477082)">
+       transform="translate(-33.694696)">
       <rect
          ry="4.4387341"
          rx="4.4387341"
@@ -351,7 +351,7 @@
     </g>
     <g
        id="g29893"
-       transform="translate(-32.356324)">
+       transform="translate(-21.834744)">
       <rect
          style="display:inline;fill:#e8f6df;fill-opacity:1;stroke:none;stroke-width:0.22424556;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
          id="rect19610"
@@ -389,7 +389,7 @@
     </g>
     <g
        id="g29886"
-       transform="translate(-15.235583)">
+       transform="translate(-9.974789)">
       <rect
          ry="4.4387341"
          rx="4.4387341"
@@ -3840,9 +3840,9 @@
          x="15.759454"
          sodipodi:role="line">Actions</tspan></text>
     <rect
-       style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.54710644;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       style="display:inline;fill:#c6e9af;fill-opacity:1;stroke:none;stroke-width:0.5764308;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
        id="rect19533"
-       width="194.7041"
+       width="216.13535"
        height="7.8189011"
        x="13.109466"
        y="368.20834" />
