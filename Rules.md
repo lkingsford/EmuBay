@@ -66,6 +66,8 @@ If you are Emu Bay to its first town, increase revenue by ₤2 for each of its t
 
 If you are connecting a company to its first port, increase revenue by ₤2 for each resource cube on its charter.
 
+The revenue of the second, and third town connected to increase as shown on the revenue table.
+
 #### Narrow-gauge track
 
 Independent companies all start with narrow-gauge track.
