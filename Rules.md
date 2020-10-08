@@ -4,7 +4,7 @@ Emu Bay Railway Company - Rules
 Lachlan Kingsford
 -----------------
 
-2020-10-03.2
+2020-10-08.1
 
 # Set up
 
@@ -50,7 +50,7 @@ There is no hidden information in this game after setup. The amount of cash, sha
 
 You can take the build track action if you have at least one share in a company you want to place track for, if it has at least one track, and if it has sufficient cash to legally place the track.
 
-A company can place between 1 and 3 tracks in a single action. All track must be connected (by adjacency to its other track - including available independent's track) to the companies station.
+A company can place between 1 and 3 tracks in a single action. All track must connect to the companies station by track of the same colour.
 
 To place a track, you place one of the cubes (track) from the company's charter in a valid spot adjacent to the company's station or existing track. You then pay the bank from the company's money the cost of the track. You do not, and can not, pay your own money. Finally, you adjust the revenue on the dividend tracker for the company.
 
@@ -62,17 +62,21 @@ Forested (green) and mountainous (green with a triangle) hexes can only be occup
 
 Increase the revenue by the amount shown in the table on the board for each hex you build track into. The table also shows prerequisites that either are required to get revenue or increase the revenue.
 
-If you are connecting a company to its first town, increase revenue by ₤2 for each plain hex (Farm) with track.
+If you are Emu Bay to its first town, increase revenue by ₤2 for each of its track on plain hexes (Farm) - excluding its narrow-gauge track.
 
-If you are connecting a company to its first port, increase revenue by ₤2 for each resource cube on the board.
+If you are connecting a company to its first port, increase revenue by ₤2 for each resource cube on its charter.
 
-#### Independent's track
+#### Narrow-gauge track
 
-Independent companies share track. If you can trace adjacent track to a company's station, it counts as 'existing track'. Once an independent is merged, any track that it counted as 'existing track' is now also 'existing track' for the company it merged with. Independent companies each have their own supply of track, which is on their section of the Independents charter.
+Independent companies all start with narrow-gauge track.
 
-The shared track means that multiple companies revenue may be effected by placing track.
+Narrow-gauge (red) track only adds to revenue when it is first placed, and only to the company placing the track - with one exception: if the narrow-gauge track placement causes another independent or company (by connection to its narrow-gauge track) to connect to a port for the first time, then increase that companies revenue by ₤2 for each resource cube on its charter.
 
-Once merged, independent company's track is also merged into the company's supply. It still counts as independent company track when placed (for connectivity sake, for instance). It can not be placed in the same space as another track by the company. A company may place any combination of its, and the independent company track during its placement.
+New narrow-gauge track must be connected by red track to the independent station. Once merging into a company, new narrow-gauge track must still connect by narrow-gauge track to an independent station the company owns.
+
+Independent companies share narrow-gauge track if it they are connected together. That means that they can 'steal' resource cubes if connected, build off a connected narrow-gauge track that another company placed, or be connected to towns or ports by narrow-gauge track that another company placed.
+
+Once merged, an independent company's track is merged into the company's supply. A company may place any combination of its regular track and narrow-gauge track during its placement. If either the merged independent or company is connected to a town or port then or in the future, then both are counted as connected to a port or town.
 
 ### Auction Share
 
@@ -110,7 +114,7 @@ The independent companies can not issue bonds. An independent company's certific
 
 You can merge an independent if the independent has a track or station directly adjacent to the non-independent company you want to merge with, you have at least one share in either of the companies, and that company has at least one unsold share remaining (or reserved, for EBR).
 
-Merge with a company by putting the independent's resource cubes, free track cubes (if any), cash, and share certificate on the other company charter. Add the independent's revenue to the company's revenue on the dividend tracker. Revenue also increases (per the Revenue rules above) if either company is connected to its first port or first town by the merger. The independent's charter does not flip from its current side.
+Merge with a company by putting the independent's resource cubes, free track cubes (if any), cash, and share certificate on the other company charter. Add the independent's revenue to the company's revenue on the dividend tracker. If either company is connected to a port for the first time, increase revenue by ₤2 for each collected cube held by the newly connected company. The independent's charter does not flip from its current side.
 
 If the company being merged with is EBR, take one of EBRs reserved shares. If it is another company, take one of that company's shares, and move one of EBRs reserved shares to be with the ordinary shares, available for auction.
 
