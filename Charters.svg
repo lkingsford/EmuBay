@@ -263,9 +263,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="365.4102"
-     inkscape:cy="236.85119"
+     inkscape:zoom="1.979899"
+     inkscape:cx="171.09505"
+     inkscape:cy="77.360758"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -273,8 +273,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1124"
      inkscape:window-height="979"
-     inkscape:window-x="1257"
-     inkscape:window-y="160"
+     inkscape:window-x="1910"
+     inkscape:window-y="175"
      inkscape:window-maximized="0">
     <sodipodi:guide
        position="-3.3706647,173.81546"
@@ -301,6 +301,26 @@
        orientation="0,1"
        id="guide14912"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.033409039,191.43819"
+       orientation="0,1"
+       id="guide3061"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.2420807e-07,105.74488"
+       orientation="0,1"
+       id="guide3063"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1.6704342,96.430273"
+       orientation="0,1"
+       id="guide3065"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-3.2420807e-07,10.70356"
+       orientation="0,1"
+       id="guide3067"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata13143">
@@ -310,7 +330,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -318,6 +338,48 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#c8c4b7;fill-opacity:1;stroke:none;stroke-width:0.271;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97674417"
+       id="rect3073"
+       width="191.23135"
+       height="85.726707"
+       x="11.091685"
+       y="200.56973"
+       rx="0.29444686"
+       ry="0.27201548"
+       inkscape:export-xdpi="120.928"
+       inkscape:export-ydpi="120.928" />
+    <rect
+       style="fill:#c8c4b7;fill-opacity:1;stroke:none;stroke-width:0.271;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97674417"
+       id="rect3071"
+       width="191.23135"
+       height="85.693306"
+       x="11.091685"
+       y="105.56181"
+       rx="0.29444686"
+       ry="0.27201548"
+       inkscape:export-xdpi="120.928"
+       inkscape:export-ydpi="120.928" />
+    <rect
+       style="fill:#c8c4b7;fill-opacity:1;stroke:none;stroke-width:0.27398393;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97674417"
+       id="rect3069"
+       width="191.23134"
+       height="85.726707"
+       x="11.091685"
+       y="10.487061"
+       rx="0.29444641"
+       ry="0.27201548" />
+    <rect
+       style="fill:#c8c4b7;fill-opacity:1;stroke:none;stroke-width:0.271;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97674417"
+       id="rect3059"
+       width="191.23135"
+       height="85.726707"
+       x="11.091685"
+       y="10.487061"
+       rx="0.28806776"
+       ry="0.27201548"
+       inkscape:export-xdpi="120.928"
+       inkscape:export-ydpi="120.928" />
     <rect
        style="fill:#afc6e9;fill-opacity:1;stroke:none;stroke-width:0.24687754;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14693"
@@ -835,5 +897,21 @@
        d="M -3.2420808e-7,286.29644 H 5.8799292"
        id="path14957"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.90863848px;line-height:1.25;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12119327"
+       x="12.227015"
+       y="292.65588"
+       id="text11014"><tspan
+         sodipodi:role="line"
+         x="12.227015"
+         y="292.65588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.12119327"
+         id="tspan2305">Emu Bay Railway Company - Set up cards        2020-10-08.1</tspan><tspan
+         sodipodi:role="line"
+         x="12.227015"
+         y="296.29169"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;stroke-width:0.12119327"
+         id="tspan2293" /></text>
   </g>
 </svg>
