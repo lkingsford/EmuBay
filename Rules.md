@@ -62,7 +62,7 @@ Forested (green) and mountainous (green with a triangle) hexes can only be occup
 
 Increase the revenue by the amount shown in the table on the board for each hex you build track into. The table also shows prerequisites that either are required to get revenue or increase the revenue.
 
-If you are Emu Bay to its first town, increase revenue by ₤2 for each of its track on plain hexes (Farm) - excluding its narrow-gauge track.
+If you are Emu Bay connecting to its first town, increase revenue by ₤2 for each of its track on plain hexes (Farm) - excluding its narrow-gauge track.
 
 If you are connecting a company to its first port, increase revenue by ₤2 for each resource cube on its charter.
 
