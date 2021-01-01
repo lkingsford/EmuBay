@@ -99,6 +99,21 @@
   "privates": [
     {
       "name": "₤10 Bond",
+      "price": "₤6/div",
+      "description": "Starting bond"
+    },
+    {
+      "name": "₤15 Bond",
+      "price": "₤8/div",
+      "description": "Starting bond"
+    },
+    {
+      "name": "₤20 Bond",
+      "price": "₤10/div",
+      "description": "Starting bond"
+    },
+    {
+      "name": "₤10 Bond",
       "price": "₤5+1/div"
     },
     {

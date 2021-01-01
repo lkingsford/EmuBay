@@ -4,8 +4,6 @@ Emu Bay Railway Company - Rules
 Lachlan Kingsford
 -----------------
 
-2020-10-08.1
-
 # Set up
 
 1. Separate the bonds, and each group of share certificates. Separate the 'Reserved' EBR certificates from the other EBR certificates.
@@ -14,23 +12,23 @@ Lachlan Kingsford
 
 3. Place the bonds next to the board.
 
-4. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol, draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
+4. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol (![setup symbol](img/SetupIcon.png)), draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
 
-5. Place the number of matching colored cubes indicated on each charter on that charter.
+5. Randomly place the "Starting Bonds" with EBR, L&W and TMLC on the deferred side and the amount of money shown on the bond.
 
-6. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Its starting position will be the revenue for the tile its station is on.
+6. Place the number of matching colored cubes indicated on each charter on that charter.
 
-7. Place additional cubes in the spaces marked on the action table.
+7. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Its starting position will be the revenue for the tile its station is on.
 
-8. Split ₤20 (or ₤18 for 3 players) evenly between the players.
+8. Place additional cubes in the spaces marked on the action table.
+
+9. Split ₤20 (or ₤18 for 3 players) evenly between the players.
 
 # Game play
 
 ## Initial Auction
 
 Initial Shares are auctioned off in the following order: L&W, TMLC, EBR, GT. Use the same rules as the 'Auction Share' action. Randomly pick a player to be the first bidder for L&W. For each subsequent auction, the first bidder is the winner of the previous auction. If no player bids for the share, the first bidder gets the share for free.
-
-Once a player purchases the first share in a company, they may issue a bond using the rules for the Issue Bond action.
 
 The winner of GT is the first player.
 
@@ -126,11 +124,17 @@ You can pay dividends whenever the action is available.
 
 Each player gets, for each share held (including both companies, and independent companies), its current dividend, divided by the amount of shares owned by players rounded up, for each individual share.
 
-If the dividend is negative, the company pays the dividend to the bank out of its treasury. If there is insufficient cash, then the amount left owing is divided by the amount of shares in that company, rounded up. Each player must pay the bank that amount for each of their shares held. If any player has insufficient cash, then they are bankrupted. Pay all their money to the bank, reduce the debt by the amount of money that they had, regard their shares as no longer held, and repeat this procedure if there are remaining shareholders.
+If the dividend is negative, then each player must pay the bank its current dividends, divided by the amount of shares owned by players, rounded up (away from zero), for each owned share. Positive dividends are paid before negative dividends are paid.
 
 After payment of dividends, adjust the dividends for debt. Each bond has a per dividend cost in the form of '₤X+Y/div'. Firstly, any bonds that are not deferred decrease the dividend by the amount Y. Secondly, flip any deferred bonds, and decrease the dividend by the amount X.
 
 Following the dividend round, check whether any of the end-game conditions apply. If they do, place a cube on the relevant space on the board.
+
+### Bankruptcy
+
+If any player has insufficient cash to pay back the negative dividends they owe, then they are bankrupt. A bankrupt player pays back as much of the debt as they can in order of lowest to highest debt-per-share; paying a debt in full where possible before the next share is resolved. The difference between what they paid and what they owed must be paid by other shareholders. Each other player must pay the amount remaining divided by the amount of shares held (excluding the bankrupt players), rounded up, per share. If any player can not pay, then they too are bankrupt, and this procedure is repeated for the amount that they owe.
+
+Where multiple players are bankrupt, resolve bankruptcies fully, clockwise starting from the current player.
 
 #### Bond example
 
@@ -149,7 +153,7 @@ The game ends in one of 3 ways:
 - All company shares (excluding any remaining 'reserved' shares) have been sold to players
 - There are 3 or fewer remaining resource cubes on the board
 - 3 of the 4 charters (including the Independents charter) have no remaining trains
-- There are 1 or fewer remaining bond cards.
+- There are 2 or fewer remaining bond cards.
 
 2. A player goes bankrupt during a Pay Dividends action due to not being able to pay their companies debt obligations. End the game immediately once all dividend payouts are completed.
 
