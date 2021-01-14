@@ -1,6 +1,8 @@
 Emu Bay Railway Company - Rules
 ===============================
 
+~60 minutes, 3-4 players.
+
 Lachlan Kingsford
 -----------------
 
@@ -14,7 +16,7 @@ Lachlan Kingsford
 
 4. Shuffle the setup cards. Shuffle the independent stations. For each tile on the map with a 'setup' symbol (![setup symbol](img/SetupIcon.png)), draw a setup card. The setup card shows what to place in the spaces around the setup symbol. Ensure to maintain the same orientation as the setup symbol. If there is a red circle on the setup card, place a random independent station in that space. Place the number of black cubes indicated in any spaces where there are black squares. Neighboring setup cards may add cubes to the same space as cubes or even independent tokens. Only place cubes on Forest (Green) and Mountainous (Green with Triangle) tiles.
 
-5. Randomly place the "Starting Bonds" with EBR, L&W and TMLC on the deferred side and the amount of money shown on the bond.
+5. Randomly place the "Starting Bonds" with EBR, L&W and TMLC on the deferred side, and give the company the amount of money shown on the bond.
 
 6. Place the number of matching colored cubes indicated on each charter on that charter.
 
@@ -22,7 +24,7 @@ Lachlan Kingsford
 
 8. Place additional cubes in the spaces marked on the action table.
 
-9. Split ₤20 (or ₤18 for 3 players) evenly between the players.
+9. Split ₤24 evenly between the players.
 
 # Game play
 
@@ -48,7 +50,7 @@ There is no hidden information in this game after setup. The amount of cash, sha
 
 You can take the build track action if you have at least one share in a company you want to place track for, if it has at least one track, and if it has sufficient cash to legally place the track.
 
-A company can place between 1 and 3 tracks in a single action. All track must connect to the companies station by track of the same colour.
+A company must place between 1 and 3 tracks in a single action. All track must connect to the companies station by track of the same colour.
 
 To place a track, you place one of the cubes (track) from the company's charter in a valid spot adjacent to the company's station or existing track. You then pay the bank from the company's money the cost of the track. You do not, and can not, pay your own money. Finally, you adjust the revenue on the dividend tracker for the company.
 
@@ -114,7 +116,7 @@ The independent companies can not issue bonds. An independent company's certific
 
 You can merge an independent if the independent has a track or station directly adjacent to the non-independent company you want to merge with, you have at least one share in either of the companies, and that company has at least one unsold share remaining (or reserved, for EBR).
 
-Merge with a company by putting the independent's resource cubes, free track cubes (if any), cash, and share certificate on the other company charter. Add the independent's revenue to the company's revenue on the dividend tracker. If either company is connected to a port for the first time, increase revenue by ₤2 for each collected cube held by the newly connected company. The independent's charter does not flip from its current side.
+Merge with a company by putting the independent's resource cubes, remaining track cubes (if any), cash, and share certificate on the other company charter. Add the independent's revenue to the company's revenue on the dividend tracker. If either company is connected to a port for the first time, increase revenue by ₤2 for each collected cube held by the newly connected company. The independent's charter does not flip from its current side.
 
 If the company being merged with is EBR, take one of EBRs reserved shares. If it is another company, take one of that company's shares, and move one of EBRs reserved shares to be with the ordinary shares, available for auction.
 

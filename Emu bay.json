@@ -98,27 +98,22 @@
   ],
   "privates": [
     {
-      "name": "₤10 Bond",
-      "price": "₤6/div",
-      "description": "Starting bond"
-    },
-    {
-      "name": "₤15 Bond",
-      "price": "₤8/div",
-      "description": "Starting bond"
-    },
-    {
-      "name": "₤20 Bond",
-      "price": "₤10/div",
+      "name": "No Bond",
       "description": "Starting bond"
     },
     {
       "name": "₤10 Bond",
-      "price": "₤5+1/div"
+      "price": "₤5+1/div",
+      "description": "Starting bond"
     },
     {
       "name": "₤15 Bond",
-      "price": "₤5+2/div"
+      "price": "₤5+2/div",
+      "description": "Starting bond"
+    },
+    {
+      "name": "₤10 Bond",
+      "price": "₤6+1/div"
     },
     {
       "name": "₤20 Bond",
@@ -129,12 +124,12 @@
       "price": "₤9+2/div"
     },
     {
-      "name": "₤40 Bond",
-      "price": "₤14+2/div"
+      "name": "₤20 Bond",
+      "price": "₤8+2/div"
     },
     {
-      "name": "₤50 Bond",
-      "price": "₤16+3/div"
+      "name": "₤30 Bond",
+      "price": "₤10+2/div"
     }
   ]
 }
