@@ -66,31 +66,27 @@
       "shareType": "default",
       "shares": [
         {
-            "name": "Grubb's Tramway",
+            "name": "1 - Grubb's Tramway",
             "subtext": "₤10, 2 Tracks",
             "quantity": 1,
-            "label": "1",
             "cost": "₤5+1/div"
         },
         {
-            "name": "Mount Lyell Mining and Railway Company",
+            "name": "2 - Mount Lyell Mining and Railway Company",
             "subtext": "₤15, 3 Tracks",
             "quantity": 1,
-            "label": "2",
             "cost": "₤7+1/div"
         },
         {
-            "name": "North East Dundas Tramway",
+            "name": "3 - North East Dundas Tramway",
             "subtext": "₤15, 3 Tracks",
             "quantity": 1,
-            "label": "3",
             "cost": "₤10+1/div"
         },
         {
-            "name": "North Mount Farrell Tramway",
+            "name": "4 - North Mount Farrell Tramway",
             "subtext": "₤15, 4 Tracks",
             "quantity": 1,
-            "label": "4",
             "cost": "₤10+1/div"
         }
       ]

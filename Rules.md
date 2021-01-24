@@ -20,7 +20,7 @@ Lachlan Kingsford
 
 6. Place the number of matching colored cubes indicated on each charter on that charter.
 
-7. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Its starting position will be the revenue for the tile its station is on.
+7. Place one cube for each of EBR, L&W and TMLC, and the tokens for each independent on the dividend tracker in its starting position. Start it at 3₤ on the revenue tracker.
 
 8. Place additional cubes in the spaces marked on the action table.
 
