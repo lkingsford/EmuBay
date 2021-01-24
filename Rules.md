@@ -60,7 +60,7 @@ Forested (green) and mountainous (green with a triangle) hexes can only be occup
 
 #### Revenue
 
-Increase the revenue by the amount shown in the table on the board for each hex you build track into. The table also shows prerequisites that either are required to get revenue or increase the revenue.
+Increase the revenue by the amount shown in the table on the board for each hex you build track into. The table also shows prerequisites that either are required to get revenue or increase the revenue. Narrow gauge always increases revenue by ₤3.
 
 If you are Emu Bay to its first town, increase revenue by ₤2 for each of its track on plain hexes (Farm) - excluding its narrow-gauge track.
 
